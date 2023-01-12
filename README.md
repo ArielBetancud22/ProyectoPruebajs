@@ -8,4 +8,4 @@ Veran que tuve errores, siempre se tienen, es también muy importante hacer cada
 este algoritmo trata un botón situado en la pantalla, con el cual se puede interactuar, abriendo la tapa, cerrando, presionando 
 el botón, con la posibilidad de abortar el conteo para la explosión de la bomba, al final de la posibilidad de reiniciar
 el programa, cargando de nuevo ola pantalla principal y comienza de nuevo la interacción.
-PARA EJECUTAR EL PROGRAMA, HACER CLIK EN EL SIGUIENTE ENLACE: 
+PARA EJECUTAR EL PROGRAMA, HACER CLIK EN EL SIGUIENTE ENLACE: https://arielbetancud22.github.io/ProyectoPruebajs/
