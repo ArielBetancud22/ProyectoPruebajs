@@ -9,3 +9,9 @@ este algoritmo trata un botón situado en la pantalla, con el cual se puede inte
 el botón, con la posibilidad de abortar el conteo para la explosión de la bomba, al final de la posibilidad de reiniciar
 el programa, cargando de nuevo ola pantalla principal y comienza de nuevo la interacción.
 PARA EJECUTAR EL PROGRAMA, HACER CLIK EN EL SIGUIENTE ENLACE: https://arielbetancud22.github.io/ProyectoPruebajs/
+<br>
+<strong>
+Aquí esta la wiki en orden, esta es toda la información del código la primera parte HOME:<br> https://github.com/ArielBetancud22/ProyectoPruebajs/wiki</br></strong>
+<br><strong>
+La segunda parte de la wiki llamada Código JavaScript explicado a detalle:</br>
+https://github.com/ArielBetancud22/ProyectoPruebajs/wiki/C%C3%B3digo-JavaScript-Explicado-en-detalle</strong>
