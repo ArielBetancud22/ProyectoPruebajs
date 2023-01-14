@@ -15,3 +15,10 @@ Aquí esta la wiki en orden, esta es toda la información del código la primera
 <br><strong>
 La segunda parte de la wiki llamada Código JavaScript explicado a detalle:</br>
 https://github.com/ArielBetancud22/ProyectoPruebajs/wiki/C%C3%B3digo-JavaScript-Explicado-en-detalle</strong>
+<strong><br>
+Aquí esta la wiki del código HTML: </br>
+https://github.com/ArielBetancud22/ProyectoPruebajs/wiki/C%C3%B3digo-HTML-Explicado-en-detalle
+<br>
+Aquí esta la wiki del código CSS: </br>
+https://github.com/ArielBetancud22/ProyectoPruebajs/wiki/C%C3%B3digo-CSS
+</strong>
