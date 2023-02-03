@@ -4,7 +4,7 @@ var panel = document.getElementById("panel");
 var turnOff = document.getElementById("turn-off");
 var turnOffHor = document.getElementById("closing");
 var detonate = document.getElementById("detonate");
-alarm.volume = 0.25; //volume level
+alarm.volume = 0.50; //volume level
 
 var time = document.getElementById("time");
 function showCountDown() {
