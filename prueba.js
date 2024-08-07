@@ -1,5 +1,6 @@
 var theCount;
 var alarm = document.getElementById("alarm");
+var alarm2 = document.getElementById("alarm2");
 var panel = document.getElementById("panel");
 var turnOff = document.getElementById("turn-off");
 var turnOffHor = document.getElementById("closing");
@@ -19,6 +20,7 @@ turnOff.classList.add("close");
 turnOffHor.classList.add("close");
 reload.classList.add("show");
 alarm.pause();
+alarm2.play();
 }, 1500);
 }
 }
@@ -51,7 +53,7 @@ clearInterval(theCount);
 time.innerText = 9;
 alarm.pause();
 alarm.currentTime = 10;
-alarm.play();
+alarm.load();
 });
 
 var reload = document.getElementById("restart");
